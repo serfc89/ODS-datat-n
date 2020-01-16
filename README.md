@@ -11,6 +11,23 @@ Organizar un datatón sobre el cumpliento de los [ODS](https://www.un.org/sustai
 
 * Estas bases de datos se almacenarán en un base de datos relacional MYSQL, se podrá buscar un servidor o un servicio en la nube para el evento.
 
+* Podríamos hacer una especie de grupo tipo tidytuesday o R4DS en españos, tirar un reto por semana, puede ser un objetivo y que la gente mande los gráficos a un twitter. Después podemos ver si hacer un datatón al final o un actividad de cierre. Esto permite hacer un sistema e puntaje par el final dar un premio tipo curso.
+
+* Con la idea anterio que haya un foro para participar y aprender.
+
+* Buscar gente para limpiar los datos como innovaap.
+
+
+
+Posibles colboradores:
+ - Carmen Garro
+ - Julio Viales
+ - Gente del RusersGRoup
+ - Mae de acturiado
+ - Gente de datos de Innovaap
+ **- Tomás Gutiérrez**
+ **- Sergio Fernández**
+
 
 
 
@@ -18,9 +35,9 @@ Organizar un datatón sobre el cumpliento de los [ODS](https://www.un.org/sustai
 
 ### 1. [Acción por el clima](https://www.un.org/sustainabledevelopment/es/climate-change-2/)
     
-   #### Bases de datos
-    Bases del sinamecc
-    Cuentas Amabientales BCCR
+#### Bases de datos
+Bases del sinamecc
+Cuentas Amabientales BCCR
     
 ### 2. [Fin de la Pobreza](https://www.un.org/sustainabledevelopment/es/poverty/)
 
