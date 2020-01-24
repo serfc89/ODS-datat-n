@@ -38,9 +38,23 @@ Posibles colboradores:
 #### Bases de datos
 Bases del sinamecc
 Cuentas Amabientales BCCR
+Sinamec: políticas y documentos emitos en materia de acción ambiental: textmining (esto requiere más brete de preparación).
     
 ### 2. [Fin de la Pobreza](https://www.un.org/sustainabledevelopment/es/poverty/)
 
+Sinirube: histórico a nivel de año, mes, distrito, sexo, nivel educativo, jefatura hogar, condición de pobreza, tipo de beneficio estatal (salud, vivienda, becas, cuido, educación, pensión, desastres naturales, alimentación)
 
-### ...
+
+### [Salud y Bienestar](https://www.un.org/sustainabledevelopment/es/health/)
+
+EDUS: - tasas de natalidad, supervivencia (neonatal y menores de 5 años) por distrito.
+      - Atención de casos de enfermedades transmisibles por centros, distrito, región, edad, tipo de enfermedad, protocolo de atención.
+      - Muertes y lesiones por accidentes de tránsito
+      - Casos de atención por padecimientos relacionados con contaminación del agua, aire y 
+      
+## Producto a realizar
+
+- Creación de indicadores para la medición de los objetivos, esto no solo en datos con larga data, también cualquier serie de datos existente que se almacene persistentemente en adelante, con fines de monitoreo e implementación institucional.
+
+
 
