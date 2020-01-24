@@ -51,7 +51,8 @@ EDUS:
 - tasas de natalidad, supervivencia (neonatal y menores de 5 años) por distrito.
 - Atención de casos de enfermedades transmisibles por centros, distrito, región, edad, tipo de enfermedad, protocolo de atención.
 - Muertes y lesiones por accidentes de tránsito
-- Casos de atención por padecimientos relacionados con contaminación del agua, aire y 
+- Casos de atención por padecimientos relacionados con contaminación del agua, aire y suelo.
+- Entrega de medicamentos por zona, edad, sexo, condición socieconómica (**cruces con SINIRUBE**).
       
 ## Producto a realizar
 
