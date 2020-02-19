@@ -33,19 +33,19 @@ Posibles colboradores:
 
 ## Objetivos para trabajar.
 
-### 1. [Acción por el clima](https://www.un.org/sustainabledevelopment/es/climate-change-2/)
+### 1. [Acción por el clima](https://www.un.org/sustainabledevelopment/es/climate-change-2/) (**Carmen, Tomás**)
     
 #### Bases de datos
 Bases del sinamecc
 Cuentas Amabientales BCCR
 Sinamec: políticas y documentos emitos en materia de acción ambiental: textmining (esto requiere más brete de preparación).
     
-### 2. [Fin de la Pobreza](https://www.un.org/sustainabledevelopment/es/poverty/)
+### 2. [Fin de la Pobreza](https://www.un.org/sustainabledevelopment/es/poverty/)(**Daniely, Sergio**)
 
 Sinirube: histórico a nivel de año, mes, distrito, sexo, nivel educativo, jefatura hogar, condición de pobreza, tipo de beneficio estatal (salud, vivienda, becas, cuido, educación, pensión, desastres naturales, alimentación)
 
 
-### 3. [Salud y Bienestar](https://www.un.org/sustainabledevelopment/es/health/)
+### 3. [Salud y Bienestar](https://www.un.org/sustainabledevelopment/es/health/)(**Sergio, Julio**)
 
 EDUS: 
 - tasas de natalidad, supervivencia (neonatal y menores de 5 años) por distrito.
