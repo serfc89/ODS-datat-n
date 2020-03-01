@@ -19,14 +19,12 @@ Organizar un datatón sobre el cumpliento de los [ODS](https://www.un.org/sustai
 
 
 
-Posibles colboradores:
+Equipo de Coordinación:
  - Carmen Garro
  - Julio Viales
- - Gente del RusersGRoup
- - Mae de acturiado
- - Gente de datos de Innovaap
- **- Tomás Gutiérrez**
- **- Sergio Fernández**
+ - Daniely Hernádez
+ - Tomás Gutiérrez
+ - Sergio Fernández
 
 
 
