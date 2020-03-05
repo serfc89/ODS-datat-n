@@ -4,21 +4,17 @@ Introducir claramente la escuela ODS a los participantes del dataton del 7.
 ### Que?
 Escuela ODS (cliente: participante)
 2 sesiones presenciales
-•	Sesión 1: orientación
+•	Sesión 1: orientación y primer taller de datos
 •	Sesión 2: dataton
-2 sesiones virtuales
-•	Sesion 1: intro a R
-•	Sesion 2: data viz
+2 Sesiones virtuales
+•	Sesion 1: Visualización
+•	Sesion 2: Productos basados en Datos
 
 ### Por que?
-Esta iniciativa nace para aprovechar información publica disponible para medir el desempeño del país en el cumplimiento de objetivo de desarrollo sostenible de la ONU. Presentar de manera pública la situación del país. -> la necesidad de datos en toma de decisiones/importancia de agenda 2030
+Esta iniciativa nace para aprovechar información publica disponible para medir el desempeño del país en el cumplimiento de Objetivo de Desarrollo Sostenible planteados en la Agenda 2030 de la ONU. La creación de una herramienta interactiva y actualizada para divulgar las mediciones, que sea accesible para los ciudadanos y desarrollada por estos a través de código libre.
+	
 
-	
-
-
-Capacitar a ciudadanos/funcionarios en el uso de herramientas de análisis y visualización de datos. 
--> la necesidad de formar habilidades
-
+Para esto necesitamos generar capacidades en los ciudadanos y funcionarios públicos en el uso de herramientas de análisis y visualización de datos. 
 
 
 ### Donde? 
@@ -39,7 +35,7 @@ Los y las participantes podrán interactuar con funcionarios de las institucione
 
 ### FAQ
 1.	¿A que datos se tiene acceso?
-  TBD
+  Bases de datos recopiladas disponibles en en múltiples sitios de instituciones públicas costarricense, preseleccionadas y preprocesadas para el uso conveniente en la Escuela. Además se espera un proceso de apertura de de bases de datos institucionales de salud y bienestar social a uni nivel de desagregación como distritos con métricas para distintas caractéristicas de la población a ese nivel.
 
 2.	¿Cuál será el producto final?
   Presentaciones con visualización sobre la situación del país desde cada eje temático.
